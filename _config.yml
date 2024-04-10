@@ -21,7 +21,7 @@
 title: Pawel's tech blog
 email: bielewicz.p@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my personal blog, mostly about tech stuff, but also some other kind.
+  Stuff from me ;)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  pawelcodenest
